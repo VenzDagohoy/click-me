@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    overflow: hidden; 
+}
+
+#score-board {
+    text-align: center;
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+#nope-btn {
+    position: absolute;
+    padding: 20px 40px; 
+    font-size: 1.5rem;  
+    background-color: red; 
+    color: white; 
+    border: none; 
+    border-radius: 8px;
+}
